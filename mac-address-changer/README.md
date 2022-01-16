@@ -42,7 +42,7 @@ Run the binary or standalone exe and pass the '-r or --random flag'.
 ![random_mac](https://user-images.githubusercontent.com/80045938/149645242-ad0eea1a-ddaf-4f4e-8c26-8cd43d4124d8.gif)
 
 #### Generate Static MAC Address: 
-Run the binary or standalone exe and pass the '-r or --random flag'.
+Run the binary or standalone exe and pass the '-s or --static flag'.
 ![static_mac](https://user-images.githubusercontent.com/80045938/149645266-76b62821-5c99-41fd-8540-aead907a8d38.gif)
 
 
