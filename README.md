@@ -15,7 +15,7 @@ This repo contains different tools that I have written in Python that perform Re
 
 ## Getting Started
 
-The easiest way to get started is to install the latest [Python Interpreter](https://www.python.org/downloads/)
+The easiest way to get started is to install the latest ![small](https://user-images.githubusercontent.com/80045938/148561762-9590c4a1-a424-4c7b-a0fb-68190fb7a31c.png) [Python Interpreter](https://www.python.org/downloads/)
 
 ## Next Steps
 
