@@ -15,8 +15,11 @@ This repo contains different tools that I have written in Python that perform Re
 
 ## Getting Started
 
-The easiest way to get started is to install the latest ![small](https://user-images.githubusercontent.com/80045938/148561762-9590c4a1-a424-4c7b-a0fb-68190fb7a31c.png) [Python Interpreter](https://www.python.org/downloads/)
+The easiest way to get started is to install the latest ![small](https://user-images.githubusercontent.com/80045938/148561762-9590c4a1-a424-4c7b-a0fb-68190fb7a31c.png) [Python Interpreter](https://www.python.org/downloads/).
 
 ## Next Steps
 
 Navigate to one of the sub-directories to explore the code and see additional instructions on how to use the tools.
+  - [MAC Address Changer](https://github.com/Anon4Now/Red-Team-Tools/tree/main/mac-address-changer)
+  - [ARP Spoofer](https://github.com/Anon4Now/Red-Team-Tools/tree/main/arp-spoofer)
+  - [Reverse Backdoor & Listener](https://github.com/Anon4Now/Red-Team-Tools/tree/main/reverse_backdoor_and_listener)
