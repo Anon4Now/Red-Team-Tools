@@ -39,7 +39,7 @@ class Listener:
         self.reliableSend(command)  # send command to target host
         if command[0] == "exit":
             self.connection.close()
-            exit()
+            sys.exit()
         return self.reliableReceive()  # get result from target host
 
     # Create copy file from target host
